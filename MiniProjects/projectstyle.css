@@ -1,0 +1,42 @@
+body{
+	background-color: hsl(210, 46%, 95%);
+}
+.container-1{
+	display: flex;
+	justify-content: space-around;
+	margin-left: ;
+}
+#container-2{
+	padding-top: 3rem;
+}
+.cont{
+	height: 300px;
+	width: 500px;
+}
+#one{
+	background-color: goldenrod;
+}
+#two{
+	background-color: limegreen;
+}
+#three{
+	background-color: hotpink;
+}
+#four{
+	background-color: violet;
+}
+.image{
+	height: 200px;
+	width: 500px;
+}
+.picture{
+	padding-top: 0.5rem;
+	padding-left: 8rem;
+}
+.git{
+	height: 40px;
+}
+.links{
+	display: flex;
+	flex-direction: row;
+}
